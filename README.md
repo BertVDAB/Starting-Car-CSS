@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://bertverbanck.be/img/projects/starting_car_css_v2.png" alt="project-image"></p>
 
-<p id="description">A pure CSS project showcasing when hovering or clicking the car starts the engine, lights, and displays "The Hinomaru" flag to symbolize the carbrand strenght and origin.</p>
+<p id="description">A pure CSS project showcasing when hovering or clicking the car starts the engine, lights, and displays "The Hinomaru" flag to symbolize the cars strenght and origin.</p>
 
 <h2>🚀 Demo</h2>
 
